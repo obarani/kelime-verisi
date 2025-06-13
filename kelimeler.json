@@ -1,5 +1,7 @@
-[
-  { "word": "elma", "hint": "Bir meyve" },
-  { "word": "masa", "hint": "Üzerine koyarsın" },
-  { "word": "kalem", "hint": "Yazmaya yarar" }
-]
+{
+  "words": [
+    { "word": "elma", "hint": "meyve" },
+    { "word": "masa", "hint": "eşya" },
+    { "word": "kalem", "hint": "yazı yazılır" }
+  ]
+}
